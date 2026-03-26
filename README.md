@@ -1,8 +1,7 @@
 # 🦠 COVID-19 Early Case Trend Analysis & Recovery Insights
 
 > **"This project was completed as part of my training under @Arnita-Infotech"**
-> 📧 arnitainfotech@gmail.com
-
+> 📧support@ediglobe.in
 ---
 
 ## 📌 Project Overview
