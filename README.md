@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Early Case Trend Analysis & Recovery Insights
 
-> **"This project was completed as part of my training under @Arnita-Infotech"**
+> **"This project was completed as part of my training under @ediglobe"**
 > 📧support@ediglobe.in
 ---
 
