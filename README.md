@@ -112,7 +112,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 Download the dataset from the link below and save it as `covid19_cases.csv` inside the `data/` folder:
 
-📥 [Download Dataset]([https://drive.google.com/file/d/1TXoqikmE0S3LGem8IgGktaJJyZPGMgN/view?usp=sharing](https://drive.google.com/file/d/1TXoqikmE0S3LGem8Ig-GktaJJyZPGMgN/view))
+📥 [Download Dataset][https://drive.google.com/file/d/1TXoqikmE0S3LGem8IgGktaJJyZPGMgN/view?usp=sharing](https://drive.google.com/file/d/1TXoqikmE0S3LGem8Ig-GktaJJyZPGMgN/view))
 
 ### 3️⃣ Running the Project
 
