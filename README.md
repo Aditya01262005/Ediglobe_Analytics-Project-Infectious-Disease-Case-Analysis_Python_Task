@@ -196,5 +196,5 @@ If you find this project useful, consider giving it a ⭐
 
 ---
 
-> **"This project was completed as part of my training under @Arnita-Infotech"**
-> 📧 arnitainfotech@gmail.com
+> **"This project was completed as part of my training under @ediglobe"**
+> 📧support@ediglobe.in
